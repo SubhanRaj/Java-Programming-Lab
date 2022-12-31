@@ -1,4 +1,4 @@
-// Java Program to demonstrate the concept of multiple inheritance
+// Java Program to demonstrate the concept of multiple inheritance using interfaces
 package multipleInheritance;
 
 interface Shape {
