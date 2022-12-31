@@ -30,4 +30,4 @@
 <!-- List of Contents -->
 
 ## All Programs
-1. [Primative Data Types](tree/main/src/primativeDataType)
+1. [Primative Data Types](/src/primativeDataType)
