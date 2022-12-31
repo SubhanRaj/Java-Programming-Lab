@@ -26,3 +26,8 @@
         <img src="https://img.shields.io/github/license/SubhanRaj/Java-Programming-Lab" alt="license" />
     </a>
 </p>
+
+<!-- List of Contents -->
+
+## All Programs
+1. [Primative Data Types](tree/main/src/primativeDataType)
